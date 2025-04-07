@@ -64,7 +64,7 @@
     "autoreactions_emojies": {
       "description": "put your favourite emojies for AutoReactions on chats or make it empty for all default emojies",
       "required": false,
-      "value": "💛,🤍,💗,♥️,💞"
+      "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸"
     },
     "VAR_APP": {
       "description": "put same app name you entered above",
@@ -92,7 +92,7 @@
       "value": "Your Status has been seen by Prince bot"
     },
     "REJECTSCALLS": {
-      "description": "reject calls",
+      "description": "type in truemsg get call reject with message or just make it true to only reject the call",
       "required": false,
       "value": "false"
     },
